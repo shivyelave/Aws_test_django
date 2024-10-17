@@ -119,7 +119,7 @@ DATABASES = {
         'NAME': 'django_db',
         'USER': 'shiv_database_user',
         'PASSWORD': 'strongpassword',
-        'HOST': '172-31-7-165',
+        'HOST': '172.31.7.165',
         'PORT': '5432',
     }
 }
